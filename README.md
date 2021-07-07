@@ -1,6 +1,6 @@
 # args
 Python argparse cheatsheet
-```
+```python
 import argparse
 
 parser = argparse.ArgumentParser()
